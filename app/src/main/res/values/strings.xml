@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Face Emotion</string>
+    <string name="content_desc_image_with_faces_to_analyze">Image with faces to analyze</string>
+    <string name="action_browse_for_a_face_image">Browse for a face image</string>
+    <string name="app_desc_text">Face Emotion can be used to detect the emotion of a face within a picture. Click the \'Browse\' button and select a picture to start</string>
+    <string name="title_select_picture">Select Picture</string>
+</resources>
