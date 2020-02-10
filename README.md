@@ -1,9 +1,9 @@
 # Face Emotion
-Recognize face emotion in a picture using the azure face api
+Recognize face emotion in a picture using the azure face api.
 
-This demo app shows only the first detected face in the picture but the face detection service was build with multiple faces in mind
+This demo app shows only the first detected face in the picture but the face detection service was build with multiple faces in mind.
 
-see [Azure Face Api](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview) for more information about this service
+See [Azure Face Api](https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview) for more information about this service.
 
 ## Instructions
 create a file called `apis.properties` under the root folder and define a variable called `faceApiKey` with your azure face api key
